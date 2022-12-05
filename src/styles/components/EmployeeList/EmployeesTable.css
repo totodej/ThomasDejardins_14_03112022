@@ -1,0 +1,40 @@
+.sc-dmctIk {
+  width: 85% !important;
+}
+
+.sc-dIfARi {
+  background-color: #faebd7 !important;
+  width: 87.2% !important;
+}
+
+.sc-dkrFOg {
+  background-color: #f1d9b9 !important;
+  border-bottom: 3px solid black !important;
+  font-weight: 900;
+}
+
+.sc-jrcTuL {
+  background-color: #faebd7 !important;
+}
+
+.sc-jrcTuL:nth-child(even) {
+  background-color: #f1d9b9 !important;
+}
+
+.sc-iJnaPW {
+  background-color: #faebd7 !important;
+}
+
+#btn-filter {
+  background-color: transparent;
+  border: transparent;
+  color: black;
+  position: absolute;
+  right: 20px;
+  cursor: pointer;
+}
+
+.sc-iveFHk {
+  height: 44px !important;
+  background-color: #faebd7 !important;
+}
