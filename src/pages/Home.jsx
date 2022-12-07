@@ -1,7 +1,6 @@
 import "../styles/pages/Home.css";
 import { useState } from "react";
 import Header from "../components/Header";
-import Modal from "../components/Home/Modal";
 import Dropdown from "../components/Home/Dropdown";
 import statesList from "../data/statesData";
 import departmentsList from "../data/departmentsData";
@@ -10,6 +9,7 @@ import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
 import { useContext } from "react";
 import { AppContext } from "../context/context";
+import Modal from "@hrnet/thomas-modal/dist/Modal";
 
 function Home() {
   const [firstName, setFirstName] = useState("");
